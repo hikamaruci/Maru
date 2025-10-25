@@ -1,1 +1,9 @@
-{}
+[
+  {
+    "username": "hika",
+    "password": "hika1",
+    "role": "owner",
+    "expiresAt": 1764017999108,
+    "createdAt": 1761425999108
+  }
+]
